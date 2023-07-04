@@ -4,5 +4,12 @@
 - Beam Search
 - Greedy Search
 
-# 经典NLP算法
+## 经典NLP算法
 - TF-IDF
+
+## Transformer Related
+- Attention
+- Multi-Head Attention
+
+## 机器学习算法
+- [TODO] K Means 
